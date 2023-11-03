@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @05rag
+- 👋 Hi, I’m Ragini Pandey 
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning C 
 - 📫  I’m looking for collaboration for beginners coding project 
