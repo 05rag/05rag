@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ragini Pandey 
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning UI/UX and python
-- 📫  I’m looking for collaboration for beginners coding project 
-
+- 👀 I’m passionate about AI/ML and building intelligent, practical solutions.
+- 🌱 Currently learning, experimenting, and working on AI/ML projects while strengthening my development skills.
+- 📫 Open to collaborating on coding and open-source projects. Let’s connect, learn, and build together!
 
 <!---
 05rag/05rag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
